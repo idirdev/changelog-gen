@@ -1,0 +1,22 @@
+{
+  "name": "@idirdev/changelog-gen",
+  "version": "1.0.0",
+  "description": "Generate changelogs from git commit history using conventional commits",
+  "main": "src/index.js",
+  "author": "idirdev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idirdev/changelog-gen.git"
+  },
+  "keywords": [],
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "scripts": {
+    "test": "node --test tests/"
+  },
+  "bin": {
+    "changelog-gen": "bin/cli.js"
+  }
+}
