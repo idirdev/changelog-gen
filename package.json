@@ -18,5 +18,9 @@
   },
   "bin": {
     "changelog-gen": "bin/cli.js"
+  },
+  "homepage": "https://github.com/idirdev/changelog-gen",
+  "bugs": {
+    "url": "https://github.com/idirdev/changelog-gen/issues"
   }
 }
